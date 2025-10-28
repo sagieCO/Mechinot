@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "194022816541",
+    "project_id": "mechinot-f4980",
+    "storage_bucket": "mechinot-f4980.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194022816541:android:5dd51ec075c80e92f87ff4",
+        "android_client_info": {
+          "package_name": "com.katza.mechinot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsMxlj4c5jpipReIKRencAoFotkEGhdJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
